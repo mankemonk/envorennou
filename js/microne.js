@@ -32,7 +32,7 @@ function Microne(parent_el) {
 		fontFamily: 'monospace',
 		fontSize: '14px',
 		position: 'absolute',
-		top: '59%',
+		top: '58.5%',
 		left: '51%',
 		width: '25px',
 		height: '25px',

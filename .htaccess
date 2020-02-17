@@ -1,6 +1,6 @@
-<FilesMatch "\.mp3$">
-    RedirectMatch 404 \.mp3$
-    
+<FilesMatch "\.mp3$">    
     Order Allow,Deny
     Deny from All
 </FilesMatch>
+
+RedirectMatch 404 \.mp3$
